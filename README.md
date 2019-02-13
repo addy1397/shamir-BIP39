@@ -1,1 +1,1 @@
-# shamir-BIP39
+# sss
